@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pandas
+matplotlib
+openai
+google-generativeai
+duckdb
