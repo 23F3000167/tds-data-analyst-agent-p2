@@ -13,4 +13,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 To analyse the given data pass the curl command like this
 
-curl -X POST "https://www.example.com/api/" -F "questions=@questions.txt" -F "data=@data.csv" -F "image=@image.png"
+curl -X POST "https://23f3000167-tds-data-analyst-agent.hf.space/api/" -F "questions=@questions.txt" -F "data=@data.csv" -F "image=@image.png"
